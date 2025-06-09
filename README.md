@@ -22,7 +22,8 @@ An interactive movie recommendation web app built using Streamlit that suggests 
 - [OMDb API](http://www.omdbapi.com/)
 
 ## 📁 Dataset
-- Movie metadata from TMDb/Kaggle (mention the source)
+- [ CREDITS , MOVIES  DATASET  ](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tmdb_5000_credits.csv) 
+
 
 ## 🧠 Techniques Used
 - TF-IDF, CountVectorizer, Cosine Similarity
