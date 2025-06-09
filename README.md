@@ -11,7 +11,9 @@ An interactive movie recommendation web app built using Streamlit that suggests 
 - Robust **data preprocessing and cleaning** pipeline.
 
 ## 📸 Demo
-(Add a screenshot or GIF here)
+![Cine Ai Recommender](https://github.com/aryan13071/Cine-Ai-Recommender/blob/main/Cine%20Ai%20Recommender.png?raw=true)
+![Search Bar for Similar Movies](https://github.com/aryan13071/Cine-Ai-Recommender/blob/main/Search%20bar%20for%20similar%20movies.png?raw=true)
+![Results](https://github.com/aryan13071/Cine-Ai-Recommender/blob/main/Results.png?raw=true)
 
 ## 🚀 How to Run
 1. Clone the repository
